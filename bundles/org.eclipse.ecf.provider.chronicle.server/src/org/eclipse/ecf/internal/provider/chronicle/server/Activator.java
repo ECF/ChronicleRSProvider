@@ -29,7 +29,7 @@ public class Activator implements BundleActivator {
 	}
 
 	private static final String SERVER_ID_PARAMETER = "id";
-	private static final String SERVER_ID_PARAMETER_DEFAULT = "chronicle://localhost:port/path";
+	private static final String SERVER_ID_PARAMETER_DEFAULT = "chronicle://localhost";
 	
 	/*
 	 * (non-Javadoc)
